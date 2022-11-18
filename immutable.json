@@ -18,7 +18,7 @@
             "zone": "europe-west1-b",
             "ssh_username": "baggurd",
 	        "disk_type": "pd-standard",
-	        "disk_size": 15,
+	        "disk_size": 20,
             "machine_type": "{{user `machine_type`}}"
         }
     ],
